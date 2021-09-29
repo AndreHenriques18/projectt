@@ -9,6 +9,7 @@ use App\Models\Category;
 use App\Models\User;
 use Illuminate\Support\Facades\Route;
 use Spatie\YamlFrontMatter\YamlFrontMatter;
+use App\Models\Comment;
 
 /*
 |--------------------------------------------------------------------------

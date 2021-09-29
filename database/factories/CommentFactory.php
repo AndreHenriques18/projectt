@@ -27,7 +27,6 @@ class CommentFactory extends Factory
             'post_id' => Post::factory(),
             'user_id' => User::factory(),
             'body' => $this->faker->paragraph()
-
         ];
     }
 }
